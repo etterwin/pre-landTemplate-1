@@ -1,0 +1,9 @@
+@media screen and (min-width: 321px) and (max-width: 480px){
+  .caption {
+    font-size: 35px;
+  }
+
+  .container {
+    font-size: 27px;
+  }
+}

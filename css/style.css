@@ -1,0 +1,49 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+ body {
+   max-width: 1920px;
+   width: 100%;
+   background: #333333;
+   margin: 0;
+ }
+
+ .wrapper {
+   max-width: 580px;
+   width: 90%;
+   height: 100%;
+   padding: 20px 0;
+   margin: 0 auto;
+ }
+
+ .logo-img {
+   display: block;
+   margin: 0 auto;
+   width: 30%;
+ }
+
+.btn--big {
+  background: linear-gradient(to top, #4F7E0E, #7BB52E);
+  border-radius: 10px;
+  text-align: center;
+  max-width: 560px;
+  width: 95%;
+  margin: 0 auto 20px;
+  padding: 20px 0;
+}
+
+.btn--small {
+  background: linear-gradient(to top, #00688F, #0093CA);
+  border-radius: 10px;
+  text-align: center;
+  max-width: 520px;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.btn-text:hover {
+  opacity: 0.9;
+}
